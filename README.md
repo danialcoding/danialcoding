@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 💻 I'm Full Stack developer <br>👨‍💻 I'm currently working in PouyaCloud<br>🍵 I love coffee & gym
 
